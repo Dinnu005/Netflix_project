@@ -1,4 +1,3 @@
-# Netflix_project
 # Netflix Data Engineering Project (Azure Lakehouse)
 
 ## Overview
