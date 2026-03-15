@@ -22,6 +22,7 @@
 5. [Implementation Details](#-implementation-details)
 6. [Tech Stack](#-tech-stack)
 7. [Repository Structure](#-repository-structure)
+8. [Author](#-author)
 
 ---
 
@@ -211,6 +212,15 @@ Netflix_project/
         ├── 09_tv_seasons.png
         └── 10_top_cast.png
 ```
+
+---
+
+## 👤 Author
+
+**Dinesh Sai Palli**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dinnu005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinnu005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-sai-825a992a5/)
 
 ---
 
